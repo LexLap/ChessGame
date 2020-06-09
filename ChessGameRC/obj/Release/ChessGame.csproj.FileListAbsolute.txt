@@ -1,0 +1,6 @@
+C:\Users\Alexey\Desktop\C#\ChessGame\bin\Release\ChessGame.exe.config
+C:\Users\Alexey\Desktop\C#\ChessGame\bin\Release\ChessGame.exe
+C:\Users\Alexey\Desktop\C#\ChessGame\bin\Release\ChessGame.pdb
+C:\Users\Alexey\Desktop\C#\ChessGame\obj\Release\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\C#\ChessGame\obj\Release\ChessGame.exe
+C:\Users\Alexey\Desktop\C#\ChessGame\obj\Release\ChessGame.pdb
